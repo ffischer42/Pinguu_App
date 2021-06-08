@@ -1,16 +1,9 @@
-# pinguu_bot
+# pinguu_app
 
-A new Flutter project.
+This app will be an UI for https://pinguu.tech
+Within this App, you'll be able to monitor and control your crypto bots live. As this app is in a very early stage, this project will change quite often.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In order to use my crypto bot (Pinguu) you'll need an account for Binance.com. You have that? Then apply for a beta-tester account by mail: felix@design-fuer-klein.de
+The Pinguu bot is running since December 2020 and I'm working constantly on improvements and bug fixes. 
