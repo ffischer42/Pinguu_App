@@ -5,5 +5,5 @@ Within this App, you'll be able to monitor and control your crypto bots live. As
 
 ## Getting Started
 
-In order to use my crypto bot (Pinguu) you'll need an account for Binance.com. You have that? Then apply for a beta-tester account by mail: felix@design-fuer-klein.de
+In order to use my crypto bot (Pinguu) you'll need an account for Binance.com. You have that? Then apply for a beta-tester account by mail: info@felixfischer.io
 The Pinguu bot is running since December 2020 and I'm working constantly on improvements and bug fixes. 
